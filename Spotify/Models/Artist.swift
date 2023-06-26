@@ -1,0 +1,16 @@
+//
+//  Artist.swift
+//  Spotify
+//
+//  Created by Николай Гринько on 08.06.2023.
+//
+
+import Foundation
+
+struct Artist: Codable {
+    let id: String
+    let name: String
+    let type: String
+    let images: [APIImage]?
+    let external_urls: [String: String]
+}
