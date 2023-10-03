@@ -26,8 +26,6 @@ The only problem:
 
 
 
-
-56375393">
 <img width="270" alt="4" src="https://github.com/NikolayGrinko/Spotify_clone/assets/112849355/be87d199-4292-4cba-ae29-9efea15d4aed">
 
 
@@ -47,19 +45,13 @@ The only problem:
 
 
 
-
-
 <img width="270" alt="8" src="https://github.com/NikolayGrinko/Spotify_clone/assets/112849355/73e4a543-d3bd-4443-919b-94e308f77fd2">
 
 
 
 
 
-
-
 <img width="270" alt="9" src="https://github.com/NikolayGrinko/Spotify_clone/assets/112849355/562cfd79-3c9b-430a-989c-0abefffc1767">
-
-
 
 
 
