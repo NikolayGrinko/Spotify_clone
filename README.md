@@ -16,7 +16,11 @@ The only problem:
 
 
 
+
+
 <img width="270" alt="2" src="https://github.com/NikolayGrinko/Spotify_clone/assets/112849355/e7c61e8d-aa42-403c-92ec-350a362ad7ff">
+
+
 
 
 
@@ -27,7 +31,11 @@ The only problem:
 
 
 
+
+
 <img width="270" alt="4" src="https://github.com/NikolayGrinko/Spotify_clone/assets/112849355/be87d199-4292-4cba-ae29-9efea15d4aed">
+
+
 
 
 
@@ -37,11 +45,20 @@ The only problem:
 
 
 
+
+
 <img width="270" alt="6" src="https://github.com/NikolayGrinko/Spotify_clone/assets/112849355/8faf4008-4c21-491d-8f4c-e5eb30b7a96c">
 
 
 
+
+
+
 <img width="270" alt="7" src="https://github.com/NikolayGrinko/Spotify_clone/assets/112849355/25fb6b08-c171-427b-9ed2-d9ad8db45a37">
+
+
+
+
 
 
 
@@ -52,7 +69,12 @@ The only problem:
 
 
 
+
+
 <img width="270" alt="9" src="https://github.com/NikolayGrinko/Spotify_clone/assets/112849355/562cfd79-3c9b-430a-989c-0abefffc1767">
+
+
+
 
 
 
