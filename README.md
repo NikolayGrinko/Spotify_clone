@@ -16,7 +16,8 @@ The only problem:
 
 
 
-<img width="270" alt="2" src="https://github.com/NikolayGrinko/Spotify_clone/assets/112849355/3cf46183-2ff0-4354-aeec-d6b4
+<img width="270" alt="2" src="https://github.com/NikolayGrinko/Spotify_clone/assets/112849355/e7c61e8d-aa42-403c-92ec-350a362ad7ff">
+
 
 
 
