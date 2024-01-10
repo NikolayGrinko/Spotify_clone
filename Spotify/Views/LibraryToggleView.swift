@@ -39,7 +39,7 @@ class LibraryToggleView: UIView {
     
     private let indicatorView: UIView = {
         let view = UIView()
-        view.backgroundColor = .systemGreen
+        view.backgroundColor = .systemRed
         view.layer.masksToBounds = true
         view.layer.cornerRadius = 4
         return view

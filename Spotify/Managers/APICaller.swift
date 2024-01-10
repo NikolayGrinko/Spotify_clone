@@ -24,8 +24,7 @@ final class ApiCaller {
     // Albums
     
     public func getAlbumDetails(for album: Album, completion: @escaping (Result<AlbumDetailsResponse, Error>) -> Void) {
-        createRequest(
-            with: URL(string: Constants.baseAPIURL + "/albums/" + album.id),
+        createRequest(with: URL(string: Constants.baseAPIURL + "/albums/" + album.id),
             type: .GET
         ) { request in
             let task = URLSession.shared.dataTask(with: request) { data, _, error in
